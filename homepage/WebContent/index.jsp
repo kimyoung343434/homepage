@@ -16,7 +16,7 @@
 
 <div class="row">
 	<div class="col-sm-4">
-		<h3>Column 1</h3>
+		<h3>안녕하세요</h3>
 		<p>회원가입은 sign up</p>
 		
 	</div>
